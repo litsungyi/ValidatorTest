@@ -141,13 +141,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   notNullPrivateItem: {fileID: 970309598}
-  notNullPrivateItem_Null: {fileID: 970309598}
+  notNullPrivateItem_Null: {fileID: 0}
   privateItem: {fileID: 970309598}
-  privateItem_Null: {fileID: 970309598}
+  privateItem_Null: {fileID: 0}
   notNullPublicItem: {fileID: 970309598}
-  notNullPublicItem_Null: {fileID: 970309598}
+  notNullPublicItem_Null: {fileID: 0}
   publicItem: {fileID: 970309598}
-  publicItem_Null: {fileID: 970309598}
+  publicItem_Null: {fileID: 0}
 --- !u!4 &164032160
 Transform:
   m_ObjectHideFlags: 0
@@ -233,13 +233,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   notNullPrivateItem: {fileID: 2048183386}
-  notNullPrivateItem_Null: {fileID: 2048183386}
+  notNullPrivateItem_Null: {fileID: 0}
   privateItem: {fileID: 2048183386}
-  privateItem_Null: {fileID: 2048183386}
+  privateItem_Null: {fileID: 0}
   notNullPublicItem: {fileID: 2048183386}
-  notNullPublicItem_Null: {fileID: 2048183386}
+  notNullPublicItem_Null: {fileID: 0}
   publicItem: {fileID: 2048183386}
-  publicItem_Null: {fileID: 2048183386}
+  publicItem_Null: {fileID: 0}
 --- !u!1 &2048183386
 GameObject:
   m_ObjectHideFlags: 0
